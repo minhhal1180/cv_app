@@ -3,7 +3,7 @@
 Ứng dụng xử lý ảnh số sử dụng Flutter + FastAPI (Python) với OpenCV.
 
 ## Cấu trúc project
-
+```bash
 cv-flutter-app/
 ├── backend/                      # Python FastAPI Backend
 │   ├── app/
@@ -37,7 +37,7 @@ cv-flutter-app/
     │       ├── operation_list.dart  # Danh sách operations
     │       └── param_sliders.dart   # Sliders điều chỉnh params
     └── pubspec.yaml
-
+```
 ## Tính năng xử lý ảnh
 
 ### 1. Intensity (Biến đổi cường độ)
